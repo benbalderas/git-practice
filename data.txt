@@ -1,3 +1,4 @@
 Name: Ben
 Age: 32
 Favorite Color: Purple
+Animal: Dolphin
